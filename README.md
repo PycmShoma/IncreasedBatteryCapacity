@@ -1,4 +1,4 @@
-![](https://github.com/PycmShoma/IncreasedBatteryCapacity/blob/main/assets/DeviceInfoHW.png)
+![](https://github.com/PycmShoma/IncreasedBatteryCapacity/blob/main/assets/DeviceInfo.png)
 
 # Module
 Increased Battery Capacity
