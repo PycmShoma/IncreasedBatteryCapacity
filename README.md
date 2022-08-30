@@ -4,7 +4,7 @@
 Increased Battery Capacity
 
 ## Description
-The module corrects the Power and Kernel Profile iles in our roms for custom Lehehe/Nohon batteries..
+The module corrects the Power and Kernel Profile iles in our roms for custom Lehehe/Nohon batteries.
 This fixes the wrong charge and displayed data.
 
 ## Four releases for:
