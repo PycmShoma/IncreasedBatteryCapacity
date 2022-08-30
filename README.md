@@ -4,11 +4,11 @@
 Increased Battery Capacity
 
 ## Description
-The module changes the display of Lehehe/Nohon battery's capacity data.
-Corrects Power Profile and Kernel Profile data
+The module corrects the Power and Kernel Profile iles in our roms for custom Lehehe/Nohon batteries..
+This fixes the wrong charge and displayed data.
 
 ## Four releases for:
-- AOSP/CAF/LOS Based roms 4000 and 4200 mAh
-- MIUI Based roms 4000 and 4200 mAh
+- AOSP/CAF/LOS Based roms. 4000 and 4200 mAh batteries
+- MIUI Based roms. 4000 and 4200 mAh batteries
 
 
