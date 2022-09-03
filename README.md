@@ -1,7 +1,7 @@
 ![](https://github.com/PycmShoma/IncreasedBatteryCapacity/blob/main/assets/DeviceInfo.png)
 
 # Module
-Increased Battery Capacity
+Increased Battery Capacity for Xiaomi Mi 9 cepheus 
 
 ## Description
 The module corrects the Power and Kernel Profile iles in our roms for custom Lehehe/Nohon batteries.
