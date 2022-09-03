@@ -1,0 +1,3 @@
+- Updated installation script
+- Updated description
+- Updated module.prop
