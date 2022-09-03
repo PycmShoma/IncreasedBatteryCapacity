@@ -4,3 +4,4 @@ version=ver.1
 versionCode=01
 author=Pycm [4PDA]
 description=Corrects Power Profile and Kernel Profile of battery capacity
+updateJson=https://raw.githubusercontent.com/PycmShoma/IncreasedBatteryCapacity/main/module.json
