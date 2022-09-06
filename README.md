@@ -2,6 +2,7 @@
 <p align="center">
 <img width="300" height="300" src="https://github.com/PycmShoma/IncreasedBatteryCapacity/blob/main/assets/DeviceInfo.png">
 </p>
+
 ## Description
 The module corrects the Power and Kernel Profile in our roms for custom Lehehe/Nohon battery's.
 This fixes the wrong charge and displayed data.
