@@ -14,6 +14,6 @@ This fixes the wrong charge and displayed data.
 
 If you had old versions of this module installed, uninstall them via Magisk Module Manager, reboot and install the latest version.
 
-## If Kernel Profile not working
+## If the Kernel Profile is not correct
 Go to [Releases](https://github.com/PycmShoma/IncreasedBatteryCapacity/releases) shoose tag `OLD` and 
 download the appropriate version
