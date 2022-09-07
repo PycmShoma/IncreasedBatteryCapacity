@@ -13,10 +13,12 @@ This fixes the wrong charge and displayed data.
 > MIUI Based roms. `4000` and `4200` mAh battery's.
 
 If you had old versions of this module installed, uninstall them via Magisk Module Manager, reboot and install the latest version.
-
+#
+#
 ## If the Kernel Profile is not correct
 Go to [Releases](https://github.com/PycmShoma/IncreasedBatteryCapacity/releases) shoose tag `OLD` and 
 download the appropriate version
-
+#
+#
 ![Release](https://img.shields.io/github/downloads/PycmShoma/IncreasedBatteryCapacity/latest/total?label=Downloads%20%28Latest%20Release%29&style=social)
 ![All Releases](https://img.shields.io/github/downloads/PycmShoma/IncreasedBatteryCapacity/total?label=Total%20Downloads%20%28All%20Releases%29&style=social)
