@@ -20,5 +20,9 @@ Go to [Releases](https://github.com/PycmShoma/IncreasedBatteryCapacity/releases)
 download the appropriate version
 #
 #
+<p align="center"
+
 ![Release](https://img.shields.io/github/downloads/PycmShoma/IncreasedBatteryCapacity/latest/total?label=Downloads%20%28Latest%20Release%29&style=social)
 ![All Releases](https://img.shields.io/github/downloads/PycmShoma/IncreasedBatteryCapacity/total?label=Total%20Downloads%20%28All%20Releases%29&style=social)
+
+</p>
