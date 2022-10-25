@@ -1,6 +1,6 @@
 {
     "version": "1",
-    "versionCode": 01,
+    "versionCode": 1,
     "zipUrl": "https://github.com/PycmShoma/IncreasedBatteryCapacity/releases/download/NEW/IBC4000-AOSP.zip",
     "changelog": "https://raw.githubusercontent.com/PycmShoma/IncreasedBatteryCapacity/main/changelog.md"
 }
