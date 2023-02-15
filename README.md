@@ -8,9 +8,9 @@ The module corrects the Power and Kernel Profile in our roms for custom Lehehe/N
 This fixes the wrong charge and displayed data.
 
 ## Six releases for:
-> AOSP/CAF/LOS Based roms. `4000`, `4200` and `4500` mAh battery's.
+> AOSP/CAF/LOS Based roms. `4000` `4200` and `4500` mAh battery's.
 
-> MIUI Based roms. `4000`, `4200` and `4500` mAh battery's.
+> MIUI Based roms. `4000` `4200` and `4500` mAh battery's.
 
 If you had old versions of this module installed, uninstall them via Magisk Module Manager, reboot and install the latest version.
 
