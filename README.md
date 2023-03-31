@@ -1,6 +1,6 @@
 # Increased Battery Capacity for Xiaomi Mi 9 cepheus  
 <p align="center">
-<img width="300" height="300" src="https://github.com/PycmShoma/IncreasedBatteryCapacity/blob/main/assets/DeviceInfo.png">
+<img width="300" height="300" src="/assets/DeviceInfo.png">
 </p>
 
 ## Description
